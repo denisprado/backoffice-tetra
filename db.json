@@ -5,7 +5,7 @@
             "cnpj": "75.058.686/0001-70",
             "name": "João da Silva",
             "fantasyName": "Catadores da Periferia",
-            "adress": "Rua José Duarte, 112",
+            "address": "Rua José Duarte, 112",
             "whatsapp": "19 991955484",
             "approved": true,
             "createdAt": "2012-11-07"
@@ -15,7 +15,7 @@
             "cnpj": "55.422.133/0001-48",
             "name": "Maria Duarte",
             "fantasyName": "Catadores do Centro",
-            "adress": "Rua Fidel Castro, 412",
+            "address": "Rua Fidel Castro, 412",
             "whatsapp": "19 995485484",
             "approved": false,
             "createdAt": "2011-12-07"
@@ -25,7 +25,7 @@
             "cnpj": "24.596.816/0001-98",
             "name": "João da Silva",
             "fantasyName": "Recicla Tudo",
-            "adress": "Rua Silvio Alcantara, 512",
+            "address": "Rua Silvio Alcantara, 512",
             "whatsapp": "19 9954658465",
             "approved": true,
             "createdAt": "2018-01-07"
@@ -35,7 +35,7 @@
             "cnpj": "04.396.653/0001-92",
             "name": "João da Silva",
             "fantasyName": "Lixo não existe Co",
-            "adress": "Rua João Mamelade, 84",
+            "address": "Rua João Mamelade, 84",
             "whatsapp": "19 991955484",
             "approved": true,
             "createdAt": "2021-08-05"
@@ -45,7 +45,7 @@
             "cnpj": "98.650.170/0001-16",
             "name": "João Carlos",
             "fantasyName": "Aparecidinha Recicladores",
-            "adress": "Rua José Silva, 12",
+            "address": "Rua José Silva, 12",
             "whatsapp": "19 958755488",
             "approved": false,
             "createdAt": "2020-05-07"
