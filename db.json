@@ -50,5 +50,23 @@
             "approved": false,
             "createdAt": "2020-05-07"
         }
+    ],
+    "orders": [
+        {
+            "id": 1,
+            "userId": 5
+        },
+        {
+            "id": 4,
+            "userId": 5
+        },
+        {
+            "id": 3,
+            "userId": 2
+        },
+        {
+            "id": 2,
+            "userId": 5
+        },
     ]
 }
