@@ -56,25 +56,104 @@
             "address": "Rua José Silva, 12",
             "whatsapp": "19 958755488",
             "approved": false,
-            "createdAt": "2020-05-07"
+            "createdAt": "2020-05-07",
+            "termsAccepted": true,
+            "avatarUrl": "https://i.pravatar.cc/150?img=5"
         }
     ],
-    "orders": [
+    "opportunities": [
         {
             "id": 1,
-            "userId": 5
-        },
-        {
-            "id": 4,
-            "userId": 5
-        },
-        {
-            "id": 3,
-            "userId": 2
+            "userId": 5,
+            "pickUp": true,
+            "pickUpDistance": 150,
+            "paymentMethodId": 1,
+            "pictures": [
+                "https://i.pravatar.cc/150?img=5",
+                "https://i.pravatar.cc/150?img=4",
+                "https://i.pravatar.cc/150?img=1"
+            ],
+            "materialStatus": 1,
+            "quantity": 1500,
+            "unit": 1
         },
         {
             "id": 2,
-            "userId": 5
+            "userId": 4,
+            "pickUp": false,
+            "pickUpDistance": 50,
+            "paymentMethodId": 2,
+            "pictures": [
+                "https://i.pravatar.cc/150?img=5",
+                "https://i.pravatar.cc/150?img=4",
+                "https://i.pravatar.cc/150?img=1"
+            ],
+            "materialStatus": 2,
+            "quantity": 2000,
+            "unit": 1
+        },
+        {
+            "id": 3,
+            "userId": 2,
+            "pickUp": true,
+            "pickUpDistance": 150,
+            "paymentMethodId": 1,
+            "pictures": [
+                "https://i.pravatar.cc/150?img=5",
+                "https://i.pravatar.cc/150?img=4",
+                "https://i.pravatar.cc/150?img=1"
+            ],
+            "materialStatus": 1,
+            "quantity": 2000,
+            "unit": 2
+        }
+    ],
+    "materials": [
+        {
+            "id": 1,
+            "name": "Embalagem Longa Vida"
+        },
+        {
+            "id": 2,
+            "name": "Alumínio"
+        },
+        {
+            "id": 3,
+            "name": "Plástico"
+        }
+    ],
+    "materialStatus": [
+        {
+            "id": 1,
+            "name": "prensado"
+        },
+        {
+            "id": 2,
+            "name": "solto"
+        }
+    ],
+    "paymentsMethods": [
+        {
+            "id": 1,
+            "name": "Pix"
+        },
+        {
+            "id": 2,
+            "name": "Dinheiro"
+        },
+        {
+            "id": 3,
+            "name": "Cartão Débito"
+        }
+    ],
+    "units": [
+        {
+            "id": 1,
+            "name": "quilos"
+        },
+        {
+            "id": 2,
+            "name": "fardos"
         }
     ]
 }
