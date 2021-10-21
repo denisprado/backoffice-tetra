@@ -8,7 +8,9 @@
             "address": "Rua José Duarte, 112",
             "whatsapp": "19 991955484",
             "approved": true,
-            "createdAt": "2012-11-07"
+            "createdAt": "2012-11-07",
+            "termsAccepted": true,
+            "avatarUrl": "https://i.pravatar.cc/150?img=1"
         },
         {
             "id": 2,
@@ -18,7 +20,9 @@
             "address": "Rua Fidel Castro, 412",
             "whatsapp": "19 995485484",
             "approved": false,
-            "createdAt": "2011-12-07"
+            "createdAt": "2011-12-07",
+            "termsAccepted": true,
+            "avatarUrl": "https://i.pravatar.cc/150?img=2"
         },
         {
             "id": 3,
@@ -28,7 +32,9 @@
             "address": "Rua Silvio Alcantara, 512",
             "whatsapp": "19 9954658465",
             "approved": true,
-            "createdAt": "2018-01-07"
+            "createdAt": "2018-01-07",
+            "termsAccepted": true,
+            "avatarUrl": "https://i.pravatar.cc/150?img=3"
         },
         {
             "id": 4,
@@ -38,7 +44,9 @@
             "address": "Rua João Mamelade, 84",
             "whatsapp": "19 991955484",
             "approved": true,
-            "createdAt": "2021-08-05"
+            "createdAt": "2021-08-05",
+            "termsAccepted": false,
+            "avatarUrl": "https://i.pravatar.cc/150?img=4"
         },
         {
             "id": 5,
