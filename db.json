@@ -73,9 +73,9 @@
                 "https://i.pravatar.cc/150?img=4",
                 "https://i.pravatar.cc/150?img=1"
             ],
-            "materialStatus": 1,
+            "materialStatusId": 1,
             "quantity": 1500,
-            "unit": 1
+            "unitId": 1
         },
         {
             "id": 2,
@@ -88,9 +88,9 @@
                 "https://i.pravatar.cc/150?img=4",
                 "https://i.pravatar.cc/150?img=1"
             ],
-            "materialStatus": 2,
+            "materialStatusId": 2,
             "quantity": 2000,
-            "unit": 1
+            "unitId": 1
         },
         {
             "id": 3,
@@ -103,9 +103,9 @@
                 "https://i.pravatar.cc/150?img=4",
                 "https://i.pravatar.cc/150?img=1"
             ],
-            "materialStatus": 1,
+            "materialStatusId": 1,
             "quantity": 2000,
-            "unit": 2
+            "unitId": 2
         }
     ],
     "materials": [
